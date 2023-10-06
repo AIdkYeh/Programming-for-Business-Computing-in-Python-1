@@ -1,2 +1,2 @@
 # Programming-for-Business-Computing-in-Python-1
-By Ling-Chieh Kung from NTU
+On Coursera from Ling-Chieh Kung in NTU
